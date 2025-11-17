@@ -1,10 +1,4 @@
 # Renomeador-de-Arquivos
-
-
-Aqui está um modelo de README.md que você pode usar para o seu script. Ele é focado em ser claro, direto e mostrar o valor do script, além de incluir os avisos necessários.
-
-Basta copiar o texto abaixo, colar em um arquivo chamado README.md (exatamente assim) e salvá-lo na mesma pasta do seu script.
-
 Renomeador de Arquivos em Massa
 Um script Python simples, mas poderoso, para automatizar a renomeação de múltiplos arquivos em um diretório. Perfeito para limpar bibliotecas de documentos, organizar fotos ou padronizar seus arquivos de projeto.
 
