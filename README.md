@@ -74,5 +74,3 @@ FAÇA UM BACKUP da sua pasta ou teste o script em uma pasta de cópia antes de e
 
 Use por sua conta e risco.
 
-Licença
-Distribuído sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
